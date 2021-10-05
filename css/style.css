@@ -15,12 +15,14 @@
 }
 
 .logo {
-  height: 2.2rem;
+  width: auto;
+  height: 4rem;
 }
 
 /**************************/
 /* NAVIGATION */
 /**************************/
+
 
 .main-nav-list {
   list-style: none;
